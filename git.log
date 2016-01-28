@@ -1,0 +1,48 @@
+commit a30b8297219ee60bf788e12ace737691fde81651
+Merge: b82b2de 50bae30
+Author: gsinghtgm <gsingh@student.tgm.ac.at>
+Date:   Thu Jan 28 10:26:42 2016 +0100
+
+    Merge branch 'master' of https://github.com/gsinghtgm/Repo1
+    
+    Conflicts:
+    	test.java
+
+commit 50bae304b15964f3524af099041e191c476b8d32
+Author: gsinghtgm <gsingh@student.tgm.ac.at>
+Date:   Thu Jan 28 10:22:48 2016 +0100
+
+    Repo2
+
+ test.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit b82b2de34b1308a88983e8ecbd3a64b7f4f1f35e
+Author: gsinghtgm <gsingh@student.tgm.ac.at>
+Date:   Thu Jan 28 10:22:36 2016 +0100
+
+    Repo1
+
+ test.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 1fee1105ab22d6f1d5460ba602fc322b38271085
+Author: gsinghtgm <gsinghtgm@fcc503d2-1f48-fcda-7dad-ce57b7db7bff>
+Date:   Thu Jan 28 09:18:43 2016 +0000
+
+    TEST.java
+    
+    
+    git-svn-id: https://github.com/gsinghtgm/Repo1.git/trunk@1 fcc503d2-1f48-fcda-7dad-ce57b7db7bff
+
+ test.java | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit 861a31288e11bfcc29d4a4de0cfea3c0fa6e8de4
+Author: gsinghtgm <gsingh@student.tgm.ac.at>
+Date:   Thu Jan 28 10:18:43 2016 +0100
+
+    TEST.java
+
+ test.java | 5 +++++
+ 1 file changed, 5 insertions(+)
